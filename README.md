@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey, I'm Luca
+
+Aspiring Game Developer | Unity & Unreal | Gamer and programmer
+
+---
+
+I'm currently working on a game with UE5 while following an online course.
+
+I'm also studying Data Structure and Algorithms every single day on Leetcode, check out my [profile](https://leetcode.com/u/Luca998/)!
 
 <!--
 **LucaP998/LucaP998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
