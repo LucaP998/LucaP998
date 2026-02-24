@@ -4,6 +4,10 @@ Aspiring Game Developer | Unity & Unreal | Gamer and programmer
 
 ---
 
+Check out my game repos!
+
+---
+
 I'm currently working on a game with UE5 while following an online course.
 
 I'm also studying Data Structure and Algorithms every single day on Leetcode, check out my [profile](https://leetcode.com/u/Luca998/)!
