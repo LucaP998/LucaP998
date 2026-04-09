@@ -8,7 +8,7 @@ Check out my game repos!
 
 ---
 
-I'm currently working daily on an online multiplayer RPG with UE5 while following an online course.
+I'm currently working daily on an online multiplayer RPG with UE5 and GAS while following an online course.
 
 I'm also studying Data Structure and Algorithms every single day on Leetcode, check out my [profile](https://leetcode.com/u/Luca998/)!
 
